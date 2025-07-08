@@ -8,7 +8,7 @@
 
 ### Installation
 
-[install python ][https://www.python.org/]
+[install python ](https://www.python.org/)
 
 1. Clone the repository (or download as ZIP):
    ```bash
